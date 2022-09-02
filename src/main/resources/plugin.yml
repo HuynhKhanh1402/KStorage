@@ -1,0 +1,6 @@
+name: KStorage
+version: '${project.version}'
+main: me.khanh.plugins.kstorage.KStoragePlugin
+api-version: 1.16
+authors: [ KhanhHuynh ]
+description: New generation storage plugin
